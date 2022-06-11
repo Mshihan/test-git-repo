@@ -1,3 +1,5 @@
 This is something where you can commit
 
 I am on the master branch
+
+Now I'm on the merge branch
