@@ -6,3 +6,5 @@ Things to learn:
 1. How to use git
 2. Introduction to git
 3. How to use git in a project
+4. What is commit
+5. How to commit the changes
