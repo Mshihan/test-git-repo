@@ -5,8 +5,6 @@ Things to learn:
 ----------------
 1. How to use git
 2. Introduction to git
-3. What is a repository
-4. How to use git in a project
-5. What is commit
-6. How to commit the changes
- 
+3. How to use git in a project
+4. What is commit
+5. How to commit the changes
