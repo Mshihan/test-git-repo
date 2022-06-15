@@ -15,6 +15,7 @@ Things to learn:
 3. Pulling
 4. Pushing
 5. Git Flow
+6. Git pull requests
 
 1. How to use git
 2. Introduction to git
